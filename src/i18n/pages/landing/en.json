@@ -29,18 +29,9 @@
         }
       ]
     },
-    "buttons": [
-      {
-        "title": "Get ShipAny",
-        "url": "https://shipany.ai",
-        "target": "_blank",
-        "variant": "link",
-        "icon": "RiArrowRightUpLine"
-      }
-    ],
-    "show_sign": true,
-    "show_theme": true,
-    "show_locale": true
+    "show_sign": false,
+    "show_theme": false,
+    "show_locale": false
   },
   "hero": {
     "title": "Ship Any AI Startups in hours, not days",
@@ -51,7 +42,6 @@
       "title": "🎉 Happy New Year",
       "url": "/#pricing"
     },
-    "tip": "🎁 50% off before 2025",
     "buttons": [
       {
         "title": "Get Started",
@@ -428,26 +418,6 @@
             {
               "title": "Templates",
               "url": "https://shipany.ai/templates",
-              "target": "_blank"
-            }
-          ]
-        },
-        {
-          "title": "Friends",
-          "children": [
-            {
-              "title": "ThinkAny",
-              "url": "https://thinkany.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "HeyBeauty",
-              "url": "https://heybeauty.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "Pagen",
-              "url": "https://pagen.so",
               "target": "_blank"
             }
           ]
